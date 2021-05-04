@@ -1,2 +1,2 @@
 # dailyscript
-Daily scripting challenge
+Daily python scripting challenge
